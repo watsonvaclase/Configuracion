@@ -1,4 +1,6 @@
-CONFIGURACIÓN DEL TJBOT
+# CONFIGURACIÓN DEL TJBOT
+## Manual de configuración
+### 	
 <br>
 <br> 
 <b> 1.3.	SERVICIOS DE WATSON </b> <br> <br> <br> 

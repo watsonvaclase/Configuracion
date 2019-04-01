@@ -1,6 +1,6 @@
 
 ## CONFIGURACIÓN DEL TJBOT
-### 	
+
 <br>
 <br> 
 <b> 1.3.	SERVICIOS DE WATSON </b> <br> <br> <br> 

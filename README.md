@@ -1,5 +1,5 @@
-# CONFIGURACIÓN DEL TJBOT
-## Manual de configuración
+
+## CONFIGURACIÓN DEL TJBOT
 ### 	
 <br>
 <br> 

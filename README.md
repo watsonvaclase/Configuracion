@@ -81,11 +81,11 @@ Como ya hemos dicho, los servicios que vamos a utilizar son 3: Text to Speech, A
 las credenciales para poder añadirlas al código de configuración del TJBot. <br>
 Necesitamos abrir el archivo config.js para actualizar dicha información. Para ello, primero <br>
 hacemos una copia del archivo original (config.default.js) mediante el siguiente comando: <br>
-cp config.default.js config.js <br>
-Una vez hecho, abrimos el archive config.js y actualizamos las credenciales de los servicios. <br>
-Será necesaria la password, el username y en el caso de Watson Assistant, el WorkspaceID. <br> <br>
+cp config.default.js config.js <br> <br>
+Una vez hecho, abrimos el archive config.js y actualizamos las credenciales de los servicios.
+Será necesaria la apikey y URL del servicio, en el caso de Watson Assistant, el WorkspaceID. <br> <br>
 </div>
-<img src="imagenes/Imagen24.png"> <br> <br>
+<img src="imagenes/Imagen25.png"> <br> <br>
 <b> 1.4.3.	PROBANDO A TJBOT </b> <br>  <br> 
 <div> Una vez tenemos todo configurado y la conversación creada, podemos probar a TJBot. <br>
 Abrimos el terminal y ejecutamos el siguiente comando: <br>

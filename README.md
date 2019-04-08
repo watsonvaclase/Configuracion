@@ -82,7 +82,7 @@ las credenciales para poder añadirlas al código de configuración del TJBot. <
 Necesitamos abrir el archivo config.js para actualizar dicha información. Para ello, primero <br>
 hacemos una copia del archivo original (config.default.js) mediante el siguiente comando: <br>
 cp config.default.js config.js <br> <br>
-Una vez hecho, abrimos el archive config.js y actualizamos las credenciales de los servicios.
+Una vez hecho, abrimos el archive config.js y actualizamos las credenciales de los servicios. <br> 
 Será necesaria la apikey y URL del servicio, en el caso de Watson Assistant, el WorkspaceID. <br> <br>
 </div>
 <img src="imagenes/Imagen25.png"> <br> <br>

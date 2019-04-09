@@ -71,8 +71,9 @@ para el audio de salida. Si hemos conectado un altavoz externo a la toma de audi
 <b> 1.4.2.	OBTENER EL CÓDIGO PARA TJBOT </b> <br> <br>
 <div> Una vez tenemos todo configurado, necesitamos descargar el código base para el TJBot. <br>
 Podemos hacerlo mediante los siguientes comandos: <br> <br> 
-git clone https://github.com/ibmtjbot/tjbot.git cd tjbot/recipes/conversation <br>
-npm install <br>
+git clone https://github.com/ibmtjbot/tjbot.git <br> <br>
+cd tjbot/recipes/conversation <br> <br>
+npm install <br> <br>
 Una vez tenemos el código instalado, tenemos que empezar a configurar los servicios de Watson. <br>
 Como ya hemos dicho, los servicios que vamos a utilizar son 3: Text to Speech, Assistant y Speech to Text. <br> <br>
 </div>

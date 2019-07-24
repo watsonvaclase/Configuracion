@@ -62,6 +62,7 @@ Abrimos un terminal en el Pi y ejecutamos los siguientes comandos para instalar 
 npm (Node Package Manager). Necesitará estos paquetes más tarde para ejecutar su código. <br>
 
 Para ello utilizamos el siguiente comando: <br>
+
 curl -sL http://ibm.biz/tjbot-bootstrap | sudo sh - <br>
 A continuación, será necesario configurar la salida de audio; el audio puede tener 2 opciones: <br>
 HDMI o Jack. <br>

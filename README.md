@@ -47,16 +47,20 @@ En el apartado Service credentials (credenciales del servicio) podemos ver nuest
 <b> 1.4.	CONFIGURAR A TJBOT  </b> <br> <br> <br> 
 <b> 1.4.1.	CONFIGURAR LA RASPBERRY PI 3  </b> <br> <br>
 Como ya hemos mencionado, Raspberry Pi es similar a un computador completo, lo que significa que se necesita un monitor, ratón y teclado para utilizarla. [1] <br> <br>
-Se puede conectar a un televisor a través de un cable HDMI. <br>
-También será necesario conectar la Raspberry a la Wifi. <br>
+Se puede conectar a un televisor a través de un cable HDMI.
+<br><br>
+También será necesario conectar la Raspberry a la Wifi. <br><br>
+
 En la mayoría de los kits Pi, la tarjeta SD ya está precargada con una imagen del sistema operativo Raspberry Pi.  <br>
 Se debe colocar la tarjeta SD en la Pi, encender la Pi y seguir las instrucciones en la pantalla para completar la <br>
-instalación del sistema operativo. <br>
+instalación del sistema operativo. <br><br>
+
 Una vez tenemos todo preparado, hay que configurar los paquetes para empezar a trabajar. <br>
 <br>
 <br>
 Abrimos un terminal en el Pi y ejecutamos los siguientes comandos para instalar la última versión de Node.js y <br>
 npm (Node Package Manager). Necesitará estos paquetes más tarde para ejecutar su código. <br>
+
 Para ello utilizamos el siguiente comando: <br>
 curl -sL http://ibm.biz/tjbot-bootstrap | sudo sh - <br>
 A continuación, será necesario configurar la salida de audio; el audio puede tener 2 opciones: <br>

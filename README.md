@@ -61,13 +61,16 @@ Una vez tenemos todo preparado, hay que configurar los paquetes para empezar a t
 Abrimos un terminal en el Pi y ejecutamos los siguientes comandos para instalar la última versión de Node.js y <br>
 npm (Node Package Manager). Necesitará estos paquetes más tarde para ejecutar su código. <br>
 
-Para ello utilizamos el siguiente comando: <br>
+Para ello utilizamos el siguiente comando: <br>br>
 
 curl -sL http://ibm.biz/tjbot-bootstrap | sudo sh - <br>
+
 A continuación, será necesario configurar la salida de audio; el audio puede tener 2 opciones: <br>
 HDMI o Jack. <br>
+
 Abrimos un terminal, y escribimos el siguiente comando, para abrir la configuración de las Raspberry: <br> <br>
 sudo raspi-config <br> <br> 
+
 <img src="imagenes/Imagen21.png"> <br> <br>
 <div> Seleccionamos "Opciones avanzadas" y luego seleccionamos "Audio". Elegimos el canal correcto <br>
 para el audio de salida. Si hemos conectado un altavoz externo a la toma de audio, debemos seleccionar la toma de 3,5 mm.

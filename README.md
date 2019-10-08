@@ -63,10 +63,10 @@ npm (Node Package Manager). Necesitará estos paquetes más tarde para ejecutar 
 
 Para ello utilizamos el siguiente comando: <br>br>
 
-curl -sL http://ibm.biz/tjbot-bootstrap | sudo sh - <br>
+curl -sL http://ibm.biz/tjbot-bootstrap | sudo sh - <br><br>
 
-A continuación, será necesario configurar la salida de audio; el audio puede tener 2 opciones: <br>
-HDMI o Jack. <br>
+A continuación, será necesario configurar la salida de audio; el audio puede tener 2 opciones: 
+ HDMI o Jack. <br>
 
 Abrimos un terminal, y escribimos el siguiente comando, para abrir la configuración de las Raspberry: <br> <br>
 sudo raspi-config <br> <br> 

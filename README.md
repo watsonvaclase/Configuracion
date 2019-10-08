@@ -78,7 +78,7 @@ para el audio de salida. Si hemos conectado un altavoz externo a la toma de audi
 <img src="imagenes/Imagen22.png"> <br> <br> <br>
 <b> 1.4.2.	OBTENER EL CÓDIGO PARA TJBOT </b> <br> <br>
 <div> Una vez tenemos todo configurado, necesitamos descargar el código base para el TJBot. <br>
-Podemos hacerlo mediante los siguientes comandos: <br> <br> 
+Podemos hacerlo mediante los siguientes comandos: <br>
 > git clone https://github.com/ibmtjbot/tjbot.git <br> 
 > cd tjbot/recipes/conversation <br>
 > npm install <br> 

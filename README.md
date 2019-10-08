@@ -69,7 +69,7 @@ A continuación, será necesario configurar la salida de audio; el audio puede t
  HDMI o Jack. <br>
 
 Abrimos un terminal, y escribimos el siguiente comando, para abrir la configuración de las Raspberry: <br> <br>
-> sudo raspi-config <br> <br> 
+> sudo raspi-config <br>
 
 <img src="imagenes/Imagen21.png"> <br> <br>
 <div> Seleccionamos "Opciones avanzadas" y luego seleccionamos "Audio". Elegimos el canal correcto <br>
@@ -79,9 +79,9 @@ para el audio de salida. Si hemos conectado un altavoz externo a la toma de audi
 <b> 1.4.2.	OBTENER EL CÓDIGO PARA TJBOT </b> <br> <br>
 <div> Una vez tenemos todo configurado, necesitamos descargar el código base para el TJBot. <br>
 Podemos hacerlo mediante los siguientes comandos: <br> <br> 
-> git clone https://github.com/ibmtjbot/tjbot.git <br> <br>
-> cd tjbot/recipes/conversation <br> <br>
-> npm install <br> <br>
+> git clone https://github.com/ibmtjbot/tjbot.git <br> 
+> cd tjbot/recipes/conversation <br>
+> npm install <br> 
 Una vez tenemos el código instalado, tenemos que empezar a configurar los servicios de Watson. <br>
 Como ya hemos dicho, los servicios que vamos a utilizar son 3: Text to Speech, Assistant y Speech to Text. <br> <br>
 </div>

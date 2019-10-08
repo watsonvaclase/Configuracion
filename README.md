@@ -61,7 +61,7 @@ Una vez tenemos todo preparado, hay que configurar los paquetes para empezar a t
 Abrimos un terminal en el Pi y ejecutamos los siguientes comandos para instalar la última versión de Node.js y <br>
 npm (Node Package Manager). Necesitará estos paquetes más tarde para ejecutar su código. <br>
 
-Para ello utilizamos el siguiente comando: <br><br>
+Para ello utilizamos el siguiente comando: <br> <br>
 
 curl -sL http://ibm.biz/tjbot-bootstrap | sudo sh - <br><br>
 

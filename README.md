@@ -68,7 +68,7 @@ Para ello utilizamos el siguiente comando: <br> <br>
 A continuación, será necesario configurar la salida de audio; el audio puede tener 2 opciones: 
  HDMI o Jack. <br>
 
-Abrimos un terminal, y escribimos el siguiente comando, para abrir la configuración de las Raspberry: <br> <br>
+Abrimos un terminal, y escribimos el siguiente comando, para abrir la configuración de las Raspberry: <br>
 > sudo raspi-config <br>
 
 <img src="imagenes/Imagen21.png"> <br> <br>

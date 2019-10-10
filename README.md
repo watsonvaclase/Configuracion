@@ -3,10 +3,10 @@
 
 <br>
 <br> 
-<b> 1.3.	SERVICIOS DE WATSON </b> <br> <br> <br> 
+<b> 1.3.	SERVICIOS DE WATSON </b> <br> 
 <div id="texto8"> Para realizar el proyecto final del TJBot, vamos a utilizar tres servicios de Watson: Text to Speech,<br>
  Speech to Text y Watson Assistant.</div> <br> <br>
-<b> 1.3.1.	TEXT TO SPEECH </b> <br> <br>
+<b> 1.3.1.	TEXT TO SPEECH </b> <br>
 <div id="texto9"> El servicio Text to Speech proporciona una interfaz de programación de aplicaciones que utiliza  <br>
 las capacidades de síntesis de voz de IBM para convertir texto escrito en voz de sonido natural. <br> <br> <br>
 Para crear un servicio Text to Speech de Watson, debemos buscarlo en el catálogo de IBM Cloud. <br> <br> <br>
@@ -20,7 +20,7 @@ Para crear un servicio Text to Speech de Watson, debemos buscarlo en el catálog
 contraseña, que necesitaremos incluir más adelantes cuando configuremos el servicio Text to <br>
 Speech en nuestra Raspberry Pi3.</div> <br> <br> 
 <div id="texto13"> ¡Hemos creado nuestro servicio Text to Speech! </div> <br> <br>
-<b> 1.3.2.	SPEECH TO TEXT </b> <br> <br>
+<b> 1.3.2.	SPEECH TO TEXT </b> <br>
 <div id="texto14"> Para crear un servicio Speech to Text de Watson, debemos buscarlo en el catálogo de IBM Cloud.</div> <br>
 <br>
 <img src="imagenes/Imagen16.png" id="img16"> <br> <br>
@@ -32,7 +32,7 @@ Speech en nuestra Raspberry Pi3.</div> <br> <br>
 contraseña, que necesitaremos incluir más adelantes cuando configuremos el servicio Speech to <br>
 Text en nuestra Raspberry Pi3. </div> <br>  <br> 
 <div id="texto18">¡Hemos creado nuestro servicio Speech to Text!</div> <br> <br>
-<b> 1.3.3.	ASSISTANT </b> <br> <br> <br> 
+<b> 1.3.3.	ASSISTANT </b> <br> 
 <div id="texto19"> Para crear un servicio de Watson Assistant, debemos buscar el servicio deseado en el catálogo de IBM Cloud.</div> <br> <br>
 <img src="imagenes/Imagen19.png" id="img19"> <br> <br>
 <div id="texto20"> Una vez seleccionado el servicio Assistant, le damos al botón de "Crear" para poder empezar a trabajar.</div> <br> <br>
